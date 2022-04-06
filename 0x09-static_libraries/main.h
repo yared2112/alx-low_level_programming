@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#definr MAIN_H
+#define MAIN_H
 
 /*
  * File: holberton.h
